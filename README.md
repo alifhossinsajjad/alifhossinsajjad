@@ -45,3 +45,34 @@
 
 
 
+# 👋 Hi, I'm Alif Mia  
+💻 Passionate Software Engineer | 🚀 Full Stack Developer | 🌍 Open Source Enthusiast  
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Cloud+and+DSA+Learner&center=true&width=500&height=45)
+
+---
+
+### 📊 GitHub Analytics
+![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifmia&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifmia&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alifmia&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+
+![Alif's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alifmia&theme=tokyo-night)
+
+---
+
+### 🏆 Achievements & Metrics
+![Metrics](https://metrics.lecoq.io/alifmia?template=classic&isocalendar=1&languages=1&introduction=1&achievements=1&stars=1&activity=1&base=header,activity,community,repositories,metadata)
+
+---
+
+### 🚀 Featured Projects
+[![Car Rental App](https://github-readme-stats.vercel.app/api/pin/?username=alifmia&repo=Car-Rental-App&theme=tokyonight)](https://github.com/alifmia/Car-Rental-App)
+
+---
+
+### 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alif-mia-320039276/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%92%BB-orange?style=for-the-badge)](https://alifmia.netlify.app)  
+
+
