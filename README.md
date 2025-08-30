@@ -36,6 +36,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alifmia&show_icons=true&locale=en&layout=compact" alt="alifmia" /></p>
 
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alifmia&show_icons=true&locale=en" alt="alifmia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alifmia&" alt="alifmia" /></p>
