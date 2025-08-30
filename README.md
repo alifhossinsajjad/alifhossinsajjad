@@ -39,10 +39,9 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alifmia&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 
 
-![Alif's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alifmia&theme=tokyo-night) 
+![Metrics](https://metrics.lecoq.io/alifmia?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&activity=1&achievements=1&lines=1&base=header,activity,community,repositories,metadata&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&introduction.title=true&stars.limit=4&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FDhaka)
 
-![GitHub followers](https://img.shields.io/github/followers/alifmia?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/alifmia?label=Stars&style=social)
-![GitHub commits](https://badges.pufler.dev/commits/monthly/alifmia)
+
+
 
 
