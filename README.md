@@ -28,7 +28,9 @@
 
 <!-- GitHub Stats Cards -->
 
-
+![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifmia&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifmia&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alifmia&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
