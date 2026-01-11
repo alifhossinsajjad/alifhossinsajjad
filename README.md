@@ -16,7 +16,7 @@
 
 - 🔭 **Currently working on:** Zap-Shift (MERN Stack)
 - 🌱 **Currently learning:** Next.js
-- 👨‍💻 **Portfolio:** [alifmia.netlify.app](https://alifmia.netlify.app)
+- 👨‍💻 **Portfolio:** https://alifmia.vercel.app/
 - 💬 **Ask me about:** React, Node.js, MongoDB, JavaScript
 - 📫 **How to reach me:** alifhossinsajjad123456@gmail.com
 - ⚡ **Fun fact:** I love turning complex problems into simple, beautiful solutions
