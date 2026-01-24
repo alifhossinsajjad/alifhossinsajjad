@@ -157,7 +157,7 @@
 | Project | Tech Stack | Features | Status |
 |---------|------------|----------|--------|
 | 🚗 **Car Rental Application** | React, Node.js, Express, MongoDB, Tailwind CSS | User authentication, car booking system, payment integration, admin dashboard | 🟢 complete |
-| 🌐 **Chef-Corner** | MERN, Stripe | Product catalog, shopping cart, user reviews, order management | 🟢 complete |
+| 🌐 **Chef-Corner** | MERN, Stripe , React, Node.js, Express, MongoDB, Tailwind CSS | Product catalog, shopping cart, user reviews, order management | 🟢 complete |
 | 📱 **Task Management App** | React, Firebase, Context API | Real-time sync, push notifications, offline capability | 🟡 Planning |
 
 
