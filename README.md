@@ -4,12 +4,12 @@
 <h3 align="center">A passionate Full-Stack Developer specializing in Software Engineer</h3>
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c6e6f7669737461626c654f6e6c792d73697a655f726573747269637465642e676966" alt="coding" width="400" />
+  <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c6e6f7669737461626c654f6e6[...]
 </div>
 
 
 ## 👁 Profile Views
-<img src="https://komarev.com/ghpvc/?username=alifmia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=alifhossinsajjad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 ## 📋 About Me
 
@@ -32,9 +32,9 @@
 
 <!-- GitHub Stats Cards -->
 
-![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifmia&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifmia&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alifmia&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifhossinsajjad&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifhossinsajjad&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alifhossinsajjad&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
@@ -142,13 +142,13 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/alif-mia-320039276/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" [...]
   </a>
   <a href="https://www.leetcode.com/u/alifhossinsajjad123456/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
   </a>
   <a href="https://www.hackerrank.com/profile/alifhossinsajja1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" /[...]
   </a>
   <a href="https://www.codechef.com/users/alif_mia207" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40" />
@@ -179,3 +179,4 @@ MongoDB       ████████████████░░░░░░
 CSS/Tailwind  █████████████████████░░░   90%
 Python        ██████████░░░░░░░░░░░░░░   50%
 
+```
