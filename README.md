@@ -18,7 +18,7 @@
   <strong>Full-Stack Developer | MERN Specialist | Junior Software Enginner</strong>
 </p>
 
-- 🔭 **Currently working on:** Zap-Shift (MERN Stack)
+<!---- 🔭 **Currently working on:** Zap-Shift (MERN Stack) --->
 - 🌱 **Currently learning:** Next.js
 - 👨‍💻 **Portfolio:** https://alifmia.vercel.app/
 - 💬 **Ask me about:** React, Node.js, MongoDB, JavaScript
