@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Full-Stack%20Developer%20💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <h1 align="center">Hi 👋, I'm Alif Mia</h1>
-<h3 align="center">A passionate Full-Stack Developer specializing in MERN Stack</h3>
+<h3 align="center">A passionate Full-Stack Developer specializing in Software Engineer</h3>
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c6e6f7669737461626c654f6e6c792d73697a655f726573747269637465642e676966" alt="coding" width="400" />
@@ -32,9 +32,9 @@
 
 <!-- GitHub Stats Cards -->
 
-![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifhossinsajjad&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifhossinsajjad&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alifhossinsajjad&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifmia&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifmia&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alifmia&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
