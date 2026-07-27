@@ -1,35 +1,30 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Full-Stack%20Developer%20💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+<!--[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Full-Stack%20Developer%20💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)-->
 
 <h1 align="center">Hey there! I'm <span style="color:#FF6B6B;">Alif Mia</span> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40'/></h1>
  
-<h3 align="center">Backend Engineer (Node.js, NestJs, Microservices)</h3>  
+<h3 align="center">Software Engineer | Backend Engineering • Full-Stack Development • Node.js • TypeScript</h3>
 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c6e6f7669737461626c654f6e6[...]
 </div>
 
+## 🚀 Engineering Profile
 
-## 👁 Profile Views
-<img src="https://komarev.com/ghpvc/?username=alifhossinsajjad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=alifhossinsajjad&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Profile Visitors"/>
 
-## 📋 About Me
+## 💻 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  <strong>Full-Stack Developer | MERN Specialist | Junior Software Enginner</strong>
+  <strong>Software Engineer | Backend & Full-Stack Development</strong>
 </p>
 
-<!---- 🔭 **Currently working on:** Zap-Shift (MERN Stack) --->
-- 🌱 **Currently learning:** Next.js
+- 🚀 **Currently building:** Scalable backend applications and modern full-stack solutions
+- 🌱 **Currently learning:** DevOps, Docker, AWS, CI/CD & Cloud Infrastructure
+- 🧠 **Interested in:** Backend Engineering, System Design, Distributed Systems & Software Architecture
 - 👨‍💻 **Portfolio:** https://alifmia.vercel.app/
-- 💬 **Ask me about:** React, Node.js, MongoDB, JavaScript
-- 📫 **How to reach me:** alifhossinsajjad123456@gmail.com
-- ⚡ **Fun fact:** I love turning complex problems into simple, beautiful solutions
-
+- 📫 **Reach me:** alifhossinsajjad123456@gmail.com
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="start">
 
 <!-- GitHub Stats Cards -->
 
