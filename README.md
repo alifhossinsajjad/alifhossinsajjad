@@ -108,7 +108,7 @@
 </p>
 
 ---
---->
+
 
 ### 💳 Payment Systems
 <p align="center">
@@ -166,25 +166,23 @@
 
 ## 🌐 Connect With Me
 
-
 <p align="left">
-  <a href="https://linkedin.com/in/alif-mia-320039276/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" [...]
+  <a href="https://linkedin.com/in/alif-mia-320039276/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-   
-  <a href="https://www.leetcode.com/u/alifhossinsajjad123456/" target="blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/u/alifhossinsajjad123456/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
   </a>
-  
-  <a href="https://www.hackerrank.com/profile/alifhossinsajja1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" /[...]
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/alifhossinsajja1" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" />
   </a>
-  
-  <a href="https://www.codechef.com/users/alif_mia207" target="blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/alif_mia207" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40" />
   </a>
 </p>
-
 <!--- ## 📂 Featured Projects
 
 
