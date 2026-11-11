@@ -4,7 +4,7 @@
  
 <h3 align="center">Software Engineer | Backend Engineering • Full-Stack Development • Node.js • TypeScript</h3>
 
-[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/alifhossinsajjad/badge.svg)](https://hub.xerj.org/contributors/alifhossinsajjad)
+
 
 ## 🚀 Engineering Profile
 
@@ -23,6 +23,7 @@
 - 🧠 **Core Interests:** Backend Engineering, System Design, Concurrency Handling, Distributed Queues (BullMQ) & Software Architecture
 - 👨‍💻 **Portfolio:** https://alifmia.vercel.app/
 - 📫 **Reach me:** alifhossinsajjad123456@gmail.com
+- [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/alifhossinsajjad/badge.svg)](https://hub.xerj.org/contributors/alifhossinsajjad)
 
 ---
 
